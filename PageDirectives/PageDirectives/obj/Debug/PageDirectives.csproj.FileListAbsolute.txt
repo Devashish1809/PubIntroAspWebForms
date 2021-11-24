@@ -1,0 +1,16 @@
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\ASP.NET 4\Module 2 - ASP.NET Web Forms Features\Code\PageDirectives\PageDirectives\bin\PageDirectives.dll
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\ASP.NET 4\Module 2 - ASP.NET Web Forms Features\Code\PageDirectives\PageDirectives\bin\PageDirectives.pdb
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\ASP.NET 4\Module 2 - ASP.NET Web Forms Features\Code\PageDirectives\PageDirectives\obj\Debug\ResolveAssemblyReference.cache
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\ASP.NET 4\Module 2 - ASP.NET Web Forms Features\Code\PageDirectives\PageDirectives\obj\Debug\PageDirectives.dll
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\ASP.NET 4\Module 2 - ASP.NET Web Forms Features\Code\PageDirectives\PageDirectives\obj\Debug\PageDirectives.pdb
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\ASP.NET 4\Module 2 - ASP.NET Web Forms Features\Code\Before\PageDirectives\PageDirectives\bin\PageDirectives.dll
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\ASP.NET 4\Module 2 - ASP.NET Web Forms Features\Code\Before\PageDirectives\PageDirectives\bin\PageDirectives.pdb
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\ASP.NET 4\Module 2 - ASP.NET Web Forms Features\Code\Before\PageDirectives\PageDirectives\obj\Debug\ResolveAssemblyReference.cache
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\ASP.NET 4\Module 2 - ASP.NET Web Forms Features\Code\Before\PageDirectives\PageDirectives\obj\Debug\PageDirectives.dll
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\ASP.NET 4\Module 2 - ASP.NET Web Forms Features\Code\Before\PageDirectives\PageDirectives\obj\Debug\PageDirectives.pdb
+D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\PageDirectives\PageDirectives\bin\PageDirectives.dll.config
+D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\PageDirectives\PageDirectives\bin\PageDirectives.dll
+D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\PageDirectives\PageDirectives\bin\PageDirectives.pdb
+D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\PageDirectives\PageDirectives\obj\Debug\PageDirectives.csprojAssemblyReference.cache
+D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\PageDirectives\PageDirectives\obj\Debug\PageDirectives.dll
+D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\PageDirectives\PageDirectives\obj\Debug\PageDirectives.pdb
