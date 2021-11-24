@@ -12,6 +12,13 @@
         .auto-style2 {
             width: 119px;
         }
+        .auto-style3 {
+            width: 119px;
+            height: 27px;
+        }
+        .auto-style4 {
+            height: 27px;
+        }
     </style>
 </head>
 <body>
@@ -22,23 +29,33 @@
                     <td class="auto-style2">First Name</td>
                     <td>
                         <asp:TextBox ID="FirstNameTextBox" runat="server"></asp:TextBox>
+                        <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="FirstNameTextBox" ErrorMessage="Please enter first name"></asp:RequiredFieldValidator>
                     </td>
                 </tr>
                 <tr>
                     <td class="auto-style2">Last Name</td>
                     <td>
                         <asp:TextBox ID="LastNameTextBox" runat="server"></asp:TextBox>
+                        <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="LastNameTextBox" ErrorMessage="Please enter last name."></asp:RequiredFieldValidator>
                     </td>
                 </tr>
                 <tr>
-                    <td class="auto-style2">State</td>
-                    <td>
+                    <td class="auto-style3">Birthday</td>
+                    <td class="auto-style4">
+                        <asp:TextBox ID="BirthdayTextBox" runat="server" OnTextChanged="TextBox1_TextChanged"></asp:TextBox>
+                        <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ControlToValidate="BirthdayTextBox" ErrorMessage="Please enter a birthday."></asp:RequiredFieldValidator>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style3">State</td>
+                    <td class="auto-style4">
                         <asp:DropDownList ID="StatesDropDown" runat="server">
                             <asp:ListItem Value="" Text="Select One" />
                             <asp:ListItem>Arizona</asp:ListItem>
                             <asp:ListItem>California</asp:ListItem>
                             <asp:ListItem>New York</asp:ListItem>
                         </asp:DropDownList>
+                        <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" ControlToValidate="StatesDropDown" ErrorMessage="Please select a state"></asp:RequiredFieldValidator>
                     </td>
                 </tr>
                 <tr>

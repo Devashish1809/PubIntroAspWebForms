@@ -21,5 +21,10 @@ namespace UsingWebControls
             var state = StatesDropDown.SelectedValue;
             OutputLabel.Text = fname + " " + " " + lname + " " + state;
         }
+
+        protected void TextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
