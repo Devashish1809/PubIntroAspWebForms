@@ -8,3 +8,9 @@
 \\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\ASP.NET 4\Module 2 - ASP.NET Web Forms Features\Code\Before\UsingWebControls\UsingWebControls\obj\Debug\ResolveAssemblyReference.cache
 \\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\ASP.NET 4\Module 2 - ASP.NET Web Forms Features\Code\Before\UsingWebControls\UsingWebControls\obj\Debug\UsingWebControls.dll
 \\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\ASP.NET 4\Module 2 - ASP.NET Web Forms Features\Code\Before\UsingWebControls\UsingWebControls\obj\Debug\UsingWebControls.pdb
+D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\UsingWebControls\UsingWebControls\bin\UsingWebControls.dll.config
+D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\UsingWebControls\UsingWebControls\bin\UsingWebControls.dll
+D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\UsingWebControls\UsingWebControls\bin\UsingWebControls.pdb
+D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\UsingWebControls\UsingWebControls\obj\Debug\UsingWebControls.csprojAssemblyReference.cache
+D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\UsingWebControls\UsingWebControls\obj\Debug\UsingWebControls.dll
+D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\UsingWebControls\UsingWebControls\obj\Debug\UsingWebControls.pdb

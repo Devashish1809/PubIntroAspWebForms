@@ -11,6 +11,5 @@
 D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\PageDirectives\PageDirectives\bin\PageDirectives.dll.config
 D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\PageDirectives\PageDirectives\bin\PageDirectives.dll
 D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\PageDirectives\PageDirectives\bin\PageDirectives.pdb
-D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\PageDirectives\PageDirectives\obj\Debug\PageDirectives.csprojAssemblyReference.cache
 D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\PageDirectives\PageDirectives\obj\Debug\PageDirectives.dll
 D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\PageDirectives\PageDirectives\obj\Debug\PageDirectives.pdb
