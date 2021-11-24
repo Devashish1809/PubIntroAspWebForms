@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="Home Page" Language="C#" 
-    
+     MaintainScrollPositionOnPostback="true"
     MasterPageFile="~/Site.master" AutoEventWireup="true"
     CodeBehind="Default.aspx.cs" Inherits="PageDirectives._Default" %>
 
