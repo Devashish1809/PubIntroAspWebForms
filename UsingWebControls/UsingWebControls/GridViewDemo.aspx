@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:GridView ID="CustomersGridView" runat="server" CellPadding="4" ForeColor="#333333" GridLines="None">
+            <%--            <asp:GridView ID="CustomersGridView" runat="server" CellPadding="4" ForeColor="#333333" GridLines="None">
                 <AlternatingRowStyle BackColor="White" />
                 <EditRowStyle BackColor="#2461BF" />
                 <FooterStyle BackColor="#507CD1" Font-Bold="True" ForeColor="White" />
@@ -21,7 +21,9 @@
                 <SortedAscendingHeaderStyle BackColor="#6D95E1" />
                 <SortedDescendingCellStyle BackColor="#E9EBEF" />
                 <SortedDescendingHeaderStyle BackColor="#4870BE" />
-            </asp:GridView>
+            </asp:GridView>--%>
+            <asp:BulletedList ID="CustomersList" runat="server">
+            </asp:BulletedList>
         </div>
     </form>
 </body>
