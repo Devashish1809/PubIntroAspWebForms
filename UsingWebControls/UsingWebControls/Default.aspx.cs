@@ -11,7 +11,8 @@ namespace UsingWebControls
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            // Page.SetFocus(LastNameTextBox);
+            LastNameTextBox.Focus();
         }
 
         protected void SubmitButton_Click(object sender, EventArgs e)
