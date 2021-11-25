@@ -1,5 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="GridViewDemo.aspx.cs" Inherits="UsingWebControls.GridViewDemo" %>
 
+<%@ Register src="UserControls/Header.ascx" tagname="Header" tagprefix="uc1" %>
+
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -22,6 +24,8 @@
                 <SortedDescendingCellStyle BackColor="#E9EBEF" />
                 <SortedDescendingHeaderStyle BackColor="#4870BE" />
             </asp:GridView>--%>
+            <uc1:Header ID="Header1" runat="server" />
+            <br />
             <asp:BulletedList ID="CustomersList" runat="server">
             </asp:BulletedList>
         </div>
