@@ -1,6 +1,0 @@
-D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\SqlDataSourceDemo\SqlDataSourceDemo\bin\SqlDataSourceDemo.dll.config
-D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\SqlDataSourceDemo\SqlDataSourceDemo\bin\SqlDataSourceDemo.dll
-D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\SqlDataSourceDemo\SqlDataSourceDemo\bin\SqlDataSourceDemo.pdb
-D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\SqlDataSourceDemo\SqlDataSourceDemo\obj\Debug\SqlDataSourceDemo.csprojAssemblyReference.cache
-D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\SqlDataSourceDemo\SqlDataSourceDemo\obj\Debug\SqlDataSourceDemo.dll
-D:\Github\IntroductionToASPWebForms\PubIntroAspWebForms\SqlDataSourceDemo\SqlDataSourceDemo\obj\Debug\SqlDataSourceDemo.pdb
