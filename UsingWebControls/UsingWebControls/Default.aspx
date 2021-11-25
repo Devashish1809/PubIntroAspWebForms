@@ -44,6 +44,7 @@
                     <td class="auto-style4">
                         <asp:TextBox ID="BirthdayTextBox" runat="server" OnTextChanged="TextBox1_TextChanged"></asp:TextBox>
                         <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ControlToValidate="BirthdayTextBox" ErrorMessage="Please enter birth date,">*</asp:RequiredFieldValidator>
+                        <asp:CompareValidator ID="CompareValidator1" runat="server" ControlToValidate="BirthdayTextBox" ErrorMessage="Please enter a valid date" Operator="DataTypeCheck" Type="Date">*</asp:CompareValidator>
                     </td>
                 </tr>
                 <tr>
